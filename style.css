@@ -1,7 +1,3 @@
-.main {
-
-}
-
 .particle-js {
   background: url(http://findmatthew.com/style/../img/filler.png) center center/cover;
   height: 100%;
@@ -43,7 +39,7 @@ nav {
 }
 
 .navbar {
- justify-content: center;
+  justify-content: center;
 }
 
 .nav-items {
@@ -62,7 +58,7 @@ nav {
 .about-head {
   margin-top: 3em;
   text-align: center;
-  font-family: raleway-bold;
+  font-family: sans-serif, raleway-bold;
   font-size: 40px;
   font-weight: 400;
   line-height: 24px;
@@ -76,7 +72,7 @@ nav {
 
 .icon-items i {
   font-size: 5em;
-  color: #11C2C9;
+  color: #11c2c9;
 }
 
 .icons {
@@ -101,7 +97,7 @@ nav {
 
 .p-about {
   width: 75%;
-  font-family: Raleway;
+  font-family: sans-serif, Raleway;
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
@@ -109,7 +105,7 @@ nav {
   color: #616161;
 }
 
- .about-contents {
+.about-contents {
   padding-left: 180px;
   width: 50%;
 }
@@ -153,10 +149,25 @@ nav {
   color: white;
 }
 
-.html {width: 90%; background-color: #11C2C9;}
-.css {width: 90%; background-color: #11C2C9;}
-.ruby {width: 65%; background-color: #11C2C9;}
-.rails {width: 75%; background-color: #11C2C9;}
+.html {
+  width: 90%;
+  background-color: #11c2c9;
+}
+
+.css {
+  width: 90%;
+  background-color: #11c2c9;
+}
+
+.ruby {
+  width: 65%;
+  background-color: #11c2c9;
+}
+
+.rails {
+  width: 75%;
+  background-color: #11c2c9;
+}
 
 .one {
   background: url(images/c.png) no-repeat;
@@ -194,7 +205,6 @@ nav {
   border-radius: 20px;
 }
 
-
 .two {
   background: url(images/b.png) no-repeat;
   background-size: cover;
@@ -220,7 +230,7 @@ nav {
 .overlay {
   width: 100%;
   height: 100%;
-  background-color: #1A6B91;
+  background-color: #1a6b91;
   opacity: 0;
   border-radius: 20px;
   position: relative;
@@ -229,7 +239,7 @@ nav {
 .overlay-two-two {
   width: 100%;
   height: 100%;
-  background-color: #1CA1F2;
+  background-color: #1ca1f2;
   opacity: 0;
   border-radius: 20px;
   position: relative;
@@ -238,12 +248,11 @@ nav {
 .overlay-three-three {
   width: 100%;
   height: 100%;
-  background-color: #5654C8;
+  background-color: #5654c8;
   opacity: 0;
   border-radius: 20px;
   position: relative;
 }
-
 
 .one-one h2 {
   margin-left: 100px;
@@ -255,6 +264,11 @@ nav {
 
 .three-three h2 {
   margin-left: 70px;
+}
+
+.footer-icons a {
+  font-size: 30px;
+  color: white;
 }
 
 .one .overlay a {
@@ -280,56 +294,56 @@ nav {
 .one:hover .overlay {
   width: 100%;
   height: 100%;
-  opacity:1;
-  text-align:justify;
-  color: #2B2D36;
-  font-size:20px;
-  font-weight:700;
-  font-family:"Times New Roman", Times, serif;
+  opacity: 1;
+  text-align: justify;
+  color: #2b2d36;
+  font-size: 20px;
+  font-weight: 700;
+  font-family: "Times New Roman", Times, serif;
 }
 
 .one-one:hover .overlay {
   width: 100%;
   height: 100%;
-  opacity:1;
-  text-align:justify;
-  color: #2B2D36;
-  font-size:20px;
-  font-weight:700;
-  font-family:"Times New Roman", Times, serif;
+  opacity: 1;
+  text-align: justify;
+  color: #2b2d36;
+  font-size: 20px;
+  font-weight: 700;
+  font-family: "Times New Roman", Times, serif;
 }
 
 .two-two:hover .overlay-two-two {
   width: 100%;
   height: 100%;
-  opacity:1;
-  text-align:justify;
-  color: #1CA1F2;
-  font-size:20px;
-  font-weight:700;
-  font-family:"Times New Roman", Times, serif;
+  opacity: 1;
+  text-align: justify;
+  color: #1ca1f2;
+  font-size: 20px;
+  font-weight: 700;
+  font-family: "Times New Roman", Times, serif;
 }
 
 .three-three:hover .overlay-three-three {
   width: 100%;
   height: 100%;
-  opacity:1;
-  text-align:justify;
-  color: #5654C8;
-  font-size:20px;
-  font-weight:700;
-  font-family:"Times New Roman", Times, serif;
+  opacity: 1;
+  text-align: justify;
+  color: #5654c8;
+  font-size: 20px;
+  font-weight: 700;
+  font-family: "Times New Roman", Times, serif;
 }
 
 .two:hover .overlay,
- .three:hover .overlay {
+.three:hover .overlay {
   width: 100%;
   height: 100%;
-  opacity:1;
-  color: #1A6B91;
+  opacity: 1;
+  color: #1a6b91;
   font-size: 12px;
-  font-weight:700;
-  font-family:"Times New Roman", Times, serif;
+  font-weight: 700;
+  font-family: "Times New Roman", Times, serif;
 }
 
 .fig {
@@ -357,18 +371,12 @@ nav {
   text-align: center;
 }
 
-.fig-html{
+.fig-html {
   position: absolute;
   top: 90px;
   left: 40px;
   margin-left: 25px;
   text-align: center;
-}
-
-
-.footer-icons a {
-  font-size: 30px;
-  color: white;
 }
 
 .footer-content {
@@ -377,15 +385,10 @@ nav {
 
 footer {
   height: 120px;
-  background-color: #2B2D36;
-}
-
-.overlay {
-  background-color: #141c3a;
+  background-color: #2b2d36;
 }
 
 @media (max-width: 767px) {
-
   body {
     overflow-x: hidden;
   }
@@ -400,54 +403,117 @@ footer {
   div.name {
     font-size: 15px;
     position: absolute;
-    left: 0;
-    top: 0;
+    left: 200px;
+    top: 250px;
   }
 
-div.icons {
-  display: flex;
-  flex-direction: column;
+  div.name h3,
+  div.name h1 {
+    font-size: 20px;
+  }
+
+  div.name h1 {
+    line-height: 3em;
+  }
+
+  div.icon-items {
+    font-size: 25px;
+  }
+
+  div.p-about {
+    padding-bottom: 20px;
+    font-size: 18px;
+  }
+
+  div.about-contents {
+    width: 100%;
+    margin-right: auto;
+    padding: 0;
+  }
+
+  div.about-me {
+    width: 100%;
+    text-align: center;
+    margin-left: 50px;
+  }
+
+  img.img {
+    margin-left: 100px;
+  }
+
+  div.percentile {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 80%;
+    padding-left: 30px;
+  }
+
+  div.projects {
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+  }
+
+  div.p-all {
+    margin-bottom: 30px;
+  }
+
+  div.icons {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    margin-top: 50px;
+  }
 }
 
-div.icon-items {
-  font-size: 30px;
-}
+@media (min-width: 768px)  and (max-width: 1439px) {
+  div.particle-js {
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    position: relative;
+  }
 
-div.p-about {
-  padding-bottom: 20px;
-  font-size: 18px;
-}
+  div.name {
+    font-size: 15px;
+    position: absolute;
+    left: 200px;
+    top: 300px;
+  }
 
-div.about-contents {
-  width: 100%;
-  margin-right: auto;
-  padding: 0;
+  div.about-contents {
+    padding-left: 100px;
+  }
 
-}
+  div.projects {
+    display: flex;
+    flex-flow: row;
+  }
 
- div.about-me {
-  width: 100%;
-  text-align: center;
-  margin-left: 50px;
-}
+  div.p-all {
+    margin-right: 5px;
+    margin-left: 5px;
+  }
 
-img.img {
-  margin-left: 100px;
-}
+  h2.h-all {
+    margin-left: 50px;
+  }
 
-div.percentile {
-  margin-top: 20px;
-  margin-bottom: 20px;
-  width: 80%;
-  padding-left: 30px;
-}
+  h2.fig-html {
+    margin-left: 0;
+  }
 
-div.projects {
-   display: flex;
-  flex-direction: column;
-  margin-left: 50px;
-  margin-bottom: 20px;
+  .figs-html {
+    position: absolute;
+    top: 160px;
+    left: 110px;
+  }
 
-}
-
+  .figs-css {
+    position: absolute;
+    top: 170px;
+    left: 130px;
+  }
 }
