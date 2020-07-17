@@ -10,8 +10,8 @@ This site is a demonstration of my porfolio.
 
 [Live Demo Link](https://raw.githack.com/imahnama/NewYork-Times-Page/Newyork-times/index.html)
 
-Authors
-👤 **Rahma Halane**
+## Authors
+ 👤 **Rahma Halane**
 
 - Github: [@Imahnama](https://github.com/imahnama)
 - Twitter: [@halane_rahma](https://twitter.com/halane_rahma)
