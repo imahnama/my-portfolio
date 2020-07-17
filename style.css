@@ -20,6 +20,10 @@
   padding-bottom: 15px;
 }
 
+.p-all {
+  margin-right: 20px;
+}
+
 .name h3 {
   display: inline-block;
   background: #1794bb;
