@@ -22,8 +22,8 @@ Show your support
 Give a ⭐️ if you like this project!
 
 Acknowledgments
-[Matt Farley](https://mattfarley.ca/)
-[Mathew Williams](http://findmatthew.com/)
+- [Matt Farley](https://mattfarley.ca/)
+- [Mathew Williams](http://findmatthew.com/)
 
 📝 License
 No License
