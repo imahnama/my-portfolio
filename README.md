@@ -17,9 +17,10 @@ Authors
 - Twitter: [@halane_rahma](https://twitter.com/halane_rahma)
 - Linkedin: [Rahmahalane](https://linkedin.com/Rahmahalane)
 
-Email: halane.rahma@gmail.com
-Show your support
-Give a ⭐️ if you like this project!
+- Email: halane.rahma@gmail.com
+## Show your support
+
+- Give a ⭐️ if you like this project!
 
 Acknowledgments
 - [Matt Farley](https://mattfarley.ca/)
