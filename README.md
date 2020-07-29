@@ -8,7 +8,7 @@ This site is a demonstration of my porfolio.
 
 ## Live Demo
 
-[Live Demo Link](festive-pike-f1599f.netlify.app/)
+[Live Demo Link](https://festive-pike-f1599f.netlify.app)
 
 ## Authors
  👤 **Rahma Halane**
