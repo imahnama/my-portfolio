@@ -2,7 +2,7 @@ body {
   overflow-x: hidden;
 }
 .particle-js {
-  background: url(http://findmatthew.com/style/../img/filler.png) center center/cover;
+  background-image: url('./images/filler.png');
   height: 100%;
 }
 
@@ -168,6 +168,11 @@ nav {
 
 .ruby {
   width: 65%;
+  background-color: #11c2c9;
+}
+
+.react {
+  width: 80%;
   background-color: #11c2c9;
 }
 
