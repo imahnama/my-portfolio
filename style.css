@@ -285,7 +285,6 @@ nav {
 
 .one .overlay a {
   color: white;
-  margin-left: 100px;
 }
 
 .two .overlay a,
@@ -353,7 +352,7 @@ nav {
   height: 100%;
   opacity: 1;
   color: #1a6b91;
-  font-size: 12px;
+  font-size: 20px;
   font-weight: 700;
   font-family: "Times New Roman", Times, serif;
 }
@@ -361,6 +360,12 @@ nav {
 .fig {
   position: absolute;
   top: 130px;
+  left: 30px;
+}
+
+.figs {
+  position: absolute;
+  top: 150px;
   left: 30px;
 }
 
@@ -376,10 +381,19 @@ nav {
   left: 150px;
 }
 
+.tag {
+  margin-left: 8.5em;
+}
+
+.scan {
+  margin-left: 3.7em;
+  margin-top: 8em;
+}
+
 .fig-ruby {
   position: absolute;
-  top: 80px;
-  left: 20px;
+  top: 50px;
+  left: 60px;
   text-align: center;
 }
 
